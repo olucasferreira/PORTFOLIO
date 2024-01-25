@@ -1,3 +1,6 @@
 [submodule "siim-isic-melanoma-classification"]
 	path = siim-isic-melanoma-classification
 	url = https://github.com/olucasferreira/siim-isic-melanoma-classification
+[submodule "Autonomous-Vehicle-Vision"]
+	path = Autonomous-Vehicle-Vision
+	url = https://github.com/olucasferreira/Autonomous-Vehicle-Vision
