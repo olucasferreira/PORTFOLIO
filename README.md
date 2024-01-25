@@ -9,5 +9,5 @@ Welcome to my portfolio! This repository aggregates various projects I've worked
 
 ## Project 2: [Project Name]
 
-- **Description:** [Brief description of the project.]
+- **Description:** [Brief description of the project]
 - **Link to Repository:** [Link to the repository]
