@@ -1,3 +1,3 @@
 [submodule "siim-isic-melanoma-classification"]
 	path = siim-isic-melanoma-classification
-	url = https://github.com/olucasferreira/siim-isic-melanoma-classification
+	url = git@github.com:olucasferreira/siim-isic-melanoma-classification.git
