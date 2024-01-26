@@ -1,4 +1,4 @@
-# Portfolio
+# PORTFOLIO
 
 Welcome to my portfolio! This repository aggregates various projects I've worked on. Explore the projects below:
 
